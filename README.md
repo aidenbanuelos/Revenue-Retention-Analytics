@@ -9,7 +9,7 @@
 
 TitanTrack is a fictional home services SaaS platform modeled after ServiceTitan, serving HVAC, roofing, plumbing, and electrical contractors across three plan tiers: Starter, Growth, and Pro.
 
-I built this project as a portfolio piece to demonstrate real-world data analytics skills, moving into genuine business problem solving. I'm a data analytics student actively transitioning from a no-code automation background (n8n, Make, GoHighLevel) into analytics, and this project represents that shift: from building workflows to asking business questions and finding answers in data.
+I built this project as a portfolio piece to demonstrate real-world data analytics skills, moving from tutorials to business problem solving. I'm a data analytics student actively transitioning from a no-code automation background (n8n, Make, GoHighLevel) into analytics, and this project represents that shift from building workflows to asking business questions and finding answers to data.
 
 The central question this dashboard answers:
 
@@ -125,7 +125,7 @@ Use this dataset to reproduce the at-risk segmentation analysis or build on it f
 
 I'm a data analytics student completing a formal certificate while building real projects to bridge into a full-time analytics role. My background is in no-code automation (n8n, Make, GoHighLevel) and I'm actively developing SQL, database, and BI skills to complement that foundation.
 
-I built TitanTrack to prove I can take a business problem, translate it into analytical questions, write the queries, and communicate the findings, not just run a tool.
+I built TitianTrack to prove I inderstand the business side of data, not just the technical side.
 
 **Open to data analytics internships and entry-level analyst roles.**
 
