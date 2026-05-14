@@ -49,7 +49,7 @@ Growth tier lost the most total revenue at $11,477 across 23 churned customers (
 
 ## Dashboard Screenshots
 
-[MRR By Month]
+![MRR by Month](screenshots/mrr_by_month.png) 
 *MRR held between $17,866–$26,453 throughout 2023 with an upward trendline despite monthly volatility.*
 
 [Churn Rate by Month]
