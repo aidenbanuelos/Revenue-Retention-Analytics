@@ -49,16 +49,16 @@ Growth tier lost the most total revenue at $11,477 across 23 churned customers (
 
 ## Dashboard Screenshots
 
-![MRR by Month](screenshots/Churn Rate by Month May 13 2026.png)
+[MRR By Month]
 *MRR held between $17,866–$26,453 throughout 2023 with an upward trendline despite monthly volatility.*
 
-![Churn Rate by Month](screenshots/churn_rate_by_month.png)
+[Churn Rate by Month]
 *Churn spiked to 12.28% in March 2024, the highest recorded rate. Non-seasonal pattern indicates no single fixable trigger.*
 
-![Failed Payment Recovery by Plan Tier](screenshots/failed_payment_recovery.png)
+[Failed Payment Recovery by Plan Tier
 *Recovery rates consistent across tiers (57–65%), revealing a systemic dunning gap rather than a tier specific problem.*
 
-![Revenue Leakage by Plan Tier](screenshots/revenue_leakage.png)
+[Revenue Leakage by Plan Tier
 *Growth tier leads in total lost revenue ($11,477) despite Pro customers having nearly 2x the individual contract value.*
 
 
