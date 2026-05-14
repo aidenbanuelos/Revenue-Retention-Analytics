@@ -1,0 +1,101 @@
+customer_id	company_name	industry	plan_tier	avg_logins	avg_features	open_tickets
+80	Blue Tech Inc	HVAC	Growth	4.2	5.4	5.0
+304	Sun Roofing Corp	Roofing	Starter	4.6	6.2	10.0
+465	Fast Services Co	Roofing	Starter	4.6	5.6	0.0
+125	Top Works Corp	HVAC	Starter	5.0	5.4	5.0
+8	Blue Pros Inc	HVAC	Starter	5.2	6.0	10.0
+414	Peak Electric	Roofing	Starter	5.2	6.0	15.0
+448	Ace Roofing Corp	HVAC	Pro	5.4	5.2	10.0
+271	Top Plumbing LLC	HVAC	Growth	6.0	5.0	5.0
+466	Ace HVAC Inc	Plumbing	Growth	6.0	5.8	5.0
+34	Pro Electric	HVAC	Starter	6.2	6.0	5.0
+102	Peak Pros	Roofing	Pro	6.2	4.4	5.0
+283	Fast Plumbing Inc	Plumbing	Starter	6.2	7.2	5.0
+378	Fast Electric	Roofing	Growth	6.2	5.6	5.0
+258	Peak Works Inc	HVAC	Starter	6.2	6.8	5.0
+123	Sun HVAC Co	Plumbing	Starter	6.2	6.0	15.0
+190	Ace Works LLC	Roofing	Pro	6.2	5.4	5.0
+331	Green Works Inc	HVAC	Starter	6.2	5.2	10.0
+135	Pro Roofing Corp	Roofing	Growth	6.4	5.8	5.0
+214	Sun Works LLC	Roofing	Starter	6.4	4.0	5.0
+334	Sun Services Co	Roofing	Pro	6.4	6.8	5.0
+169	Green Solutions LLC	Roofing	Starter	6.4	4.4	15.0
+20	Elite Services LLC	Electrical	Pro	6.4	5.0	5.0
+58	Pro Tech	Plumbing	Starter	6.6	5.6	10.0
+17	Peak Works Co	Electrical	Starter	6.6	4.8	5.0
+32	Elite Tech Corp	Plumbing	Starter	6.6	3.8	5.0
+371	Top Services Inc	Roofing	Starter	6.8	5.4	10.0
+103	Green Works Co	Plumbing	Starter	7.0	5.2	5.0
+67	Elite HVAC LLC	Plumbing	Growth	7.2	3.8	15.0
+206	Sun Pros	Plumbing	Starter	7.2	6.2	5.0
+277	Green Group Inc	Electrical	Growth	7.2	5.2	5.0
+197	Sun Group Corp	HVAC	Starter	7.2	6.2	5.0
+60	Green Pros Inc	Electrical	Starter	7.2	5.4	10.0
+144	Fast Solutions	Roofing	Starter	7.4	7.0	15.0
+472	Fast Solutions	Electrical	Starter	7.4	6.4	10.0
+97	Blue Plumbing Inc	Electrical	Pro	7.4	4.8	10.0
+81	Star Roofing Co	Roofing	Starter	7.6	3.6	5.0
+454	Star Solutions Corp	HVAC	Growth	7.6	4.2	5.0
+273	Green HVAC Inc	Plumbing	Starter	7.6	4.4	10.0
+439	Blue Solutions Corp	HVAC	Starter	7.6	5.2	10.0
+424	Ace Electric	Electrical	Starter	7.8	5.4	10.0
+363	Green Pros	HVAC	Starter	7.8	6.4	5.0
+423	Sun Roofing LLC	HVAC	Starter	7.8	2.8	0.0
+62	Star Solutions Corp	Roofing	Growth	7.8	5.8	5.0
+497	Top Solutions LLC	HVAC	Starter	8.0	6.2	5.0
+173	Green Plumbing Corp	Plumbing	Starter	8.0	6.6	10.0
+92	Fast Electric LLC	Electrical	Growth	8.0	4.4	5.0
+393	Fast Works LLC	HVAC	Starter	8.0	4.8	5.0
+399	Peak Tech Co	Electrical	Starter	8.0	4.4	10.0
+307	Top Plumbing Corp	Electrical	Starter	8.2	5.6	5.0
+248	Blue Electric Corp	Plumbing	Starter	8.2	7.0	5.0
+252	Green Solutions Corp	Electrical	Starter	8.2	6.2	5.0
+213	Fast Plumbing Corp	Roofing	Growth	8.4	6.0	5.0
+184	Blue Tech Inc	Plumbing	Growth	8.4	3.6	5.0
+25	Green Roofing	Plumbing	Starter	8.4	5.6	5.0
+345	Green Solutions LLC	Plumbing	Growth	8.6	4.4	5.0
+349	Top Services Co	Roofing	Starter	8.6	3.4	10.0
+370	Fast Pros Co	HVAC	Starter	8.6	5.4	5.0
+412	Sun Pros Co	Roofing	Pro	8.6	4.2	5.0
+159	Fast Works Inc	HVAC	Starter	8.8	4.6	5.0
+278	Blue Pros Corp	Electrical	Pro	8.8	4.4	5.0
+259	Elite Electric Corp	Roofing	Starter	8.8	6.6	5.0
+384	Fast Solutions Corp	Plumbng	Starter	8.8	5.8	5.0
+422	Fast Roofing LLC	Roofing	Starter	8.8	6.6	5.0
+459	Peak Solutions	HVAC	Starter	8.8	4.0	5.0
+204	Star Roofing Corp	Electrical	Starter	9.0	6.0	5.0
+27	Star Services	Roofing	Starter	9.4	5.2	5.0
+244	Ace Services	Plumbing	Starter	9.8	5.8	5.0
+295	Green Services Corp	Plumbing	Growth	9.8	5.8	10.0
+440	Green Works Co	HVAC	Starter	10.4	5.2	5.0
+359	Ace Solutions Corp	Plumbing	Growth	14.4	5.0	5.0
+432	Blue Services Corp	HVAC	Growth	14.8	5.6	5.0
+256	Fast Services Inc	HVAC	Starter	15.0	3.4	5.0
+341	Elite Pros LLC	Roofing	Starter	15.0	4.6	5.0
+119	Green Electric Co	Roofing	Growth	15.4	5.6	5.0
+429	Ace Works	Plumbing	Starter	15.4	4.2	5.0
+50	Elite Roofing Co	Plumbing	Pro	15.4	5.2	5.0
+152	Elite Services LLC	Plumbing	Pro	15.6	4.2	10.0
+35	Blue Services	HVAC	Growth	15.6	5.6	5.0
+105	Elite Services Corp	Roofing	Growth	15.6	6.0	10.0
+168	Peak Services	Electrical	Growth	15.8	5.2	10.0
+257	Peak Electric Co	Plumbing	Growth	15.8	4.2	10.0
+373	Elite Pros	Electrical	Growth	15.8	6.0	5.0
+311	Fast Pros	HVAC	Growth	16.0	4.8	5.0
+391	Star Works Co	Electrical	Growth	16.0	4.8	5.0
+28	Elite Solutions LLC	Electrical	Pro	16.2	4.6	5.0
+40	Pro Pros	HVAC	Growth	16.2	5.2	10.0
+340	Elite Group Corp	Plumbing	Pro	16.2	6.2	5.0
+486	Ace Plumbing LLC	Roofing	Growth	16.2	5.4	5.0
+375	Fast HVAC Corp	HVAC	Starter	16.4	5.0	10.0
+175	Star Tech Corp	Electrical	Pro	16.4	7.4	5.0
+364	Elite Tech	Electrical	Pro	16.6	5.0	5.0
+219	Top Plumbing	Electrical	Growth	16.6	5.4	5.0
+235	Fast Group	Roofing	Pro	16.6	5.8	10.0
+376	Fast HVAC	Electrical	Growth	16.8	5.2	5.0
+247	Elite Pros Corp	Plumbing	Growth	16.8	4.6	10.0
+134	Green Roofing Inc	Plumbing	Starter	16.8	5.4	5.0
+84	Sun Works LLC	Electrical	Pro	16.8	5.0	5.0
+381	Peak HVAC Co	Electrical	Starter	16.8	2.2	0.0
+426	Fast HVAC Inc	Roofing	Growth	17.0	7.0	5.0
+416	Elite Roofing	Roofing	Growth	17.0	3.2	5.0
