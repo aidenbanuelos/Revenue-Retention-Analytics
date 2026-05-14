@@ -33,6 +33,7 @@ Each query was built around a specific question a real SaaS operator would need 
 
 **MRR — Stable but volatile**  
 Monthly recurring revenue ranged from $17,866 to $26,453 throughout 2023 with an upward overall trendline. Month-to-month swings of 20–30% suggest new customer acquisition was being offset by inconsistent churn — making retention the core issue to investigate.
+
 **Churn — Unpredictable spikes, not seasonal bleed**  
 Churn held between 1.75–3.51% for most months, but spiked to 8.77% in August 2023 and 12.28% in March 2024. Non-seasonal spikes are more dangerous than consistent churn — there's no predictable trigger to fix.
 
@@ -40,7 +41,7 @@ Churn held between 1.75–3.51% for most months, but spiked to 8.77% in August 2
 Recovery rates were nearly identical across all plan tiers: Growth 58.67%, Pro 64.97%, Starter 56.59%. The consistency reveals the problem isn't tier-specific, it's a systemic gap in the dunning process leaving 35–43% of failed payments unrecovered across the entire customer base.
 
 **Revenue Leakage — Growth tier is the priority**  
-Growth tier lost the most total revenue at $11,477 across 23 churned customers (~$499/customer). Pro tier lost $9,990 across only 10 customers (~$999/customer). Growth is the worst of both worlds — high churn volume combined with meaningful contract value — making it the highest-ROI target for a retention intervention.
+Growth tier lost the most total revenue at $11,477 across 23 churned customers ($499/customer). Pro tier lost $9,990 across only 10 customers ($999/customer). Growth is the worst of both worlds — high churn volume combined with meaningful contract value — making it the highest-ROI target for a retention intervention.
 
 **At-Risk Customers — Moving from reactive to predictive**  
 231 customers flagged as at-risk across all tiers. 21 customers meet critical risk criteria: 10+ open support tickets AND average feature usage below 5.0, indicating simultaneous frustration and disengagement. Growth tier carries the highest at-risk volume (85 customers). 14 customers are severely disengaged with feature usage below 4.0, including 3 Pro-tier accounts representing the highest individual revenue exposure.
