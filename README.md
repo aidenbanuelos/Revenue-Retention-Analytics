@@ -90,6 +90,23 @@ Five tables in PostgreSQL via Supabase:
 
 Synthetic dataset generated in Python with realistic patterns including usage decay before churn and payment recovery flags.
 
+## Sample Dataset
+
+The at-risk customer dataset used for Query 5 is included in the `/data` folder.
+
+`data/at_risk_customers_may_2024.csv`
+
+Contains 231 flagged active customers with the following fields:
+- `customer_id` — unique identifier
+- `company_name` — business name
+- `industry` — HVAC, roofing, plumbing, or electrical
+- `plan_tier` — Starter, Growth, or Pro
+- `avg_logins` — average monthly login count
+- `avg_features` — average features used per month
+- `open_tickets` — count of unresolved support tickets
+
+Use this dataset to reproduce the at-risk segmentation analysis or build on it further.
+
 ## Data Notes
 
 - January 2024 MRR excluded from trend chart, partial month at dataset boundary
