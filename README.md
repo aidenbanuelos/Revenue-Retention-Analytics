@@ -57,7 +57,7 @@ Launch a dedicatated Growth tier retention program. Reducing Growth churn by 30%
 At-risk criteria: avg logins below 5, avg features used below 3, or any open support tickets*
 231 customers flagged as at-risk across all tiers. 21 customers meet critical risk criteria: 10+ open support tickets AND average feature usage below 5.0, indicating simultaneous frustration and disengagement. Growth tier carries the highest at-risk volume (85 customers). 14 customers are severely disengaged with feature usage below 4.0, including 3 Pro-tier accounts representing the highest individual revenue exposure.
 
-**Reccommendation:**
+**Recommendation:**
 Prioritize outreach to the 3 at risk PRO accounts immediately. Each represents $999/month in recoverable MRR, a single save justifies the entire retention effort cost.
 
 ## Dashboard Screenshots
