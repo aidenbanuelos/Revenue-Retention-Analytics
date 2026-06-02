@@ -9,8 +9,6 @@
 
 TitanTrack is a fictional home services SaaS platform modeled after ServiceTitan, serving HVAC, roofing, plumbing, and electrical contractors across three plan tiers: Starter, Growth, and Pro.
 
-I built this project as a portfolio piece to demonstrate real-world data analytics skills, moving from tutorials to business problem solving. I'm a data analytics student actively transitioning from a no-code automation background (n8n, Make, GoHighLevel) into analytics, and this project represents that shift from building workflows to asking business questions and finding answers to data.
-
 The central question this dashboard answers:
 
 > **Where is this SaaS company losing money and what can be done about it?**
@@ -44,6 +42,7 @@ Recovery rates were nearly identical across all plan tiers: Growth 58.67%, Pro 6
 Growth tier lost the most total revenue at $11,477 across 23 churned customers ($499/customer). Pro tier lost $9,990 across only 10 customers ($999/customer). Growth is the worst of both worlds — high churn volume combined with meaningful contract value — making it the highest-ROI target for a retention intervention.
 
 **At-Risk Customers — Moving from reactive to predictive**  
+At-rskk criteria: avg logins below 5, avg features used below 3, or any open support tickets*
 231 customers flagged as at-risk across all tiers. 21 customers meet critical risk criteria: 10+ open support tickets AND average feature usage below 5.0, indicating simultaneous frustration and disengagement. Growth tier carries the highest at-risk volume (85 customers). 14 customers are severely disengaged with feature usage below 4.0, including 3 Pro-tier accounts representing the highest individual revenue exposure.
 
 
@@ -125,9 +124,9 @@ Use this dataset to reproduce the at-risk segmentation analysis or build on it f
 
 I'm a data analytics student completing a formal certificate while building real projects to bridge into a full-time analytics role. My background is in no-code automation (n8n, Make, GoHighLevel) and I'm actively developing SQL, database, and BI skills to complement that foundation.
 
-I built TitianTrack to prove I inderstand the business side of data, not just the technical side.
+I built TitanTrack to prove I understand the business side of data, not just the technical side.
 
-**Open to data analytics internships and entry-level analyst roles.**
+**CONTACT**
 
 - 📧 aidenjbanuelos@outlook.com
 - 💼 [linkedin.com/in/aiden-banuelos-60b0b6276](https://www.linkedin.com/in/aiden-banuelos-60b0b6276)
