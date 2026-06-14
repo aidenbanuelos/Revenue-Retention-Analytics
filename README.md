@@ -142,5 +142,5 @@ I built TitanTrack to prove I understand the business side of data, not just the
 
 **CONTACT**
 
-- 📧 aidenjbanuelos@outlook.com
-- 💼 [linkedin.com/in/aiden-banuelos-60b0b6276](https://www.linkedin.com/in/aiden-banuelos-60b0b6276)
+-  aidenjbanuelos@outlook.com
+- [linkedin.com/in/aiden-banuelos-60b0b6276](https://www.linkedin.com/in/aiden-banuelos-60b0b6276)
