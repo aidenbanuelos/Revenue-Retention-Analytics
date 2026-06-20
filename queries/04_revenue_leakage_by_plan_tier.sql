@@ -1,5 +1,5 @@
 -- ================================================
--- Query: Revenue Leakage by Plan Tier
+-- Query 4: Revenue Leakage by Plan Tier
 -- Business Question: Which plan tier is bleeding
 --                   the most revenue?
 -- Table(s): subscriptions
@@ -9,11 +9,11 @@
 --        combined with meaningful contract value
 --        (~$499/customer vs ~$999 for Pro).
 -- ================================================
-
 SELECT
   plan_tier,
   COUNT(*) AS churned_customers,
-  SUM(monthly_price) AS lost_revenue
+  ROUND(SUM(monthly_price), 2) AS lost_revenue,
+  ROUND(SUM(monthly_price) / COUNT(*), 2) AS avg_lost_per_customer
 FROM public.subscriptions
 WHERE status = 'churned'
 GROUP BY plan_tier
