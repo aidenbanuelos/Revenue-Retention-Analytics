@@ -55,6 +55,7 @@ Launch a dedicatated Growth tier retention program. Reducing Growth churn by 30%
 
 **At-Risk Customers — Moving from reactive to predictive**  
 At-risk criteria: avg logins below 5, avg features used below 3, or any open support tickets*
+
 231 customers flagged as at-risk across all tiers. 21 customers meet critical risk criteria: 10+ open support tickets AND average feature usage below 5.0, indicating simultaneous frustration and disengagement. Growth tier carries the highest at-risk volume (85 customers). 14 customers are severely disengaged with feature usage below 4.0, including 3 Pro-tier accounts representing the highest individual revenue exposure.
 
 **Recommendation:**
@@ -136,7 +137,7 @@ Use this dataset to reproduce the at-risk segmentation analysis or build on it f
 
 ## About Me
 
-I'm a data analytics student completing a formal certificate while building real projects to bridge into a full-time analytics role. My background is in no-code automation (n8n, Make, GoHighLevel) and I'm actively developing SQL, database, and BI skills to complement that foundation.
+I'm a data analytics student completing a formal certificate while building real projects to bridge into a full-time analytics role. I'm actively developing SQL, database, and BI skills.
 
 I built TitanTrack to prove I understand the business side of data, not just the technical side.
 
