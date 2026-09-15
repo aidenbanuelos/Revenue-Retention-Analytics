@@ -3,13 +3,7 @@
 -- Business Question: When payments fail, are we
 --                   recovering the money?
 -- Table(s): payments, subscriptions
--- Notes: Joins payments to subscriptions to get
---        plan tier context. Filters on failed
---        payments only. Recovery rates are
---        consistent across tiers (56.59-64.97%),
---        revealing a systemic dunning gap rather
---        than a tier-specific problem.
--- ================================================
+
 SELECT
   s.plan_tier,
   COUNT(*) AS total_failed,
