@@ -2,14 +2,7 @@
 -- Query 2: Churn Rate by Month
 -- Business Question: Are we losing customers and how fast?
 -- Table(s): subscriptions
--- Notes: Calculates churn rate as a percentage of
---        total subscriptions per month. Churned
---        subscriptions are grouped by end_date
---        (when churn occurred), not start_date.
---        June 2024 excluded — partial month inflates rate.
---        Non-seasonal spikes in Aug 2023 (8.77%)
---        and Mar 2024 (12.28%) are key findings.
--- ================================================
+
 SELECT
   DATE_TRUNC('month',
     CASE
