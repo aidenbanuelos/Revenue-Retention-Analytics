@@ -1,4 +1,4 @@
-# TitanTrack: SaaS Revenue & Retention Analytics Dashboard
+#  SaaS Revenue & Retention Analytics Dashboard
 
 **Stack:** PostgreSQL (Supabase) · Metabase · SQL
 **Data range:** January 2023 – May 2024
