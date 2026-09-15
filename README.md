@@ -63,8 +63,6 @@ Prioritize outreach to the 3 at risk PRO accounts immediately. Each represents $
 
 ## Dashboard 
 
-*MRR held between $17,866–$26,453 throughout 2023 with an upward trendline despite monthly volatility.*
-
 ![Churn Rate by Month](screenshots/churn_rate_by_month.png)
 *Churn spiked to 12.28% in March 2024, the highest recorded rate. Non-seasonal pattern indicates no single fixable trigger.*
 
@@ -77,16 +75,13 @@ Prioritize outreach to the 3 at risk PRO accounts immediately. Each represents $
 
 ## SQL Queries
 
-All queries are in the `/queries` folder. Each file is named and commented to explain the business logic behind it.
-
-```
 queries/
 ├── 01_mrr_by_month.sql
 ├── 02_churn_rate_by_month.sql
 ├── 03_failed_payment_recovery.sql
 ├── 04_revenue_leakage_by_plan_tier.sql
 └── 05_at_risk_customers.sql
-```
+
 
 
 ## Data Model
