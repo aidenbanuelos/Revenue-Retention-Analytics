@@ -1,4 +1,4 @@
-# TitanTrack Revenue & Retention Analytics Dashboard
+# Revenue & Retention Analytics Dashboard
 
 **Stack:** PostgreSQL (Supabase) · Metabase · SQL  
 **Data Range:** January 2023 – May 2024  
@@ -61,9 +61,8 @@ At-risk criteria: avg logins below 5, avg features used below 3, or any open sup
 **Recommendation:**
 Prioritize outreach to the 3 at risk PRO accounts immediately. Each represents $999/month in recoverable MRR, a single save justifies the entire retention effort cost.
 
-## Dashboard Screenshots
+## Dashboard 
 
-![MRR by Month](screenshots/mrr_by_month.png)
 *MRR held between $17,866–$26,453 throughout 2023 with an upward trendline despite monthly volatility.*
 
 ![Churn Rate by Month](screenshots/churn_rate_by_month.png)
@@ -119,7 +118,6 @@ Contains 231 flagged active customers with the following fields:
 - `avg_features` — average features used per month
 - `open_tickets` — count of unresolved support tickets
 
-Use this dataset to reproduce the at-risk segmentation analysis or build on it further.
 
 ## Data Notes
 
@@ -135,13 +133,3 @@ Use this dataset to reproduce the at-risk segmentation analysis or build on it f
 - **SQL** — All analysis written in PostgreSQL-flavored SQL
 - **Python** — Synthetic dataset generation
 
-## About Me
-
-I'm a data analytics student completing a formal certificate while building real projects to bridge into a full-time analytics role. I'm actively developing SQL, database, and BI skills.
-
-I built TitanTrack to prove I understand the business side of data, not just the technical side.
-
-**CONTACT**
-
--  aidenjbanuelos@outlook.com
-- [linkedin.com/in/aiden-banuelos-60b0b6276](https://www.linkedin.com/in/aiden-banuelos-60b0b6276)
