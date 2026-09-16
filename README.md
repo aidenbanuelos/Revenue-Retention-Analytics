@@ -27,19 +27,19 @@ I tried to build every query around a question I think a real SaaS founder or op
 ## What I Found
 
 **MRR — growing overall, but pretty bumpy month to month**
-MRR ranged from $17,866 to $26,453 over the time period, and the overall trend goes up, which is good. But it's not a smooth line up — there's a decent amount of up-and-down between months. (I want to go back and actually calculate the average month-over-month % change instead of eyeballing it, so treat that specific number as a TODO for now rather than something I've confirmed.) My guess is that new customers were signing up, but churn was inconsistent enough to cancel out a lot of that growth some months.
+MRR ranged from $17,866 to $26,453 over the time period, and the overall trend goes up, which is good. But it's not a smooth line up , there's a decent amount of up-and-down between months. (I want to go back and actually calculate the average month-over-month % change instead of eyeballing it, so treat that specific number as a TODO for now rather than something I've confirmed.) My guess is that new customers were signing up, but churn was inconsistent enough to cancel out a lot of that growth some months.
 
 *What I'd recommend:* Focus more on keeping existing customers than on getting new ones. It seems like reducing churn even a little would matter more than growing the customer base at this point.
 
 **Churn — spikes that don't look seasonal**
-Most months, churn stayed between 1.75–3.51%, but there were two big spikes: 8.77% in August 2023 and 12.28% in March 2024. Since they don't line up with any obvious season or pattern, I don't think there's one clean thing to fix — it's probably a few different things going wrong at different times.
+Most months, churn stayed between 1.75–3.51%, but there were two big spikes: 8.77% in August 2023 and 12.28% in March 2024. Since they don't line up with any obvious season or pattern, I don't think there's one clean thing to fix , it's probably a few different things going wrong at different times.
 
 *What I'd recommend:* Some kind of early warning system that looks at usage and support tickets, so the company can catch unhappy customers before they actually leave instead of just finding out after they're gone.
 
 **Failed payment recovery — feels like a company-wide issue, not a tier thing**
-Recovery rates were really close across all three tiers: Growth 58.67%, Pro 64.97%, Starter 56.59%. Since they're all in a similar range, I don't think this is a "one tier has a problem" situation — it looks more like the whole payment recovery process (dunning emails, retry logic, whatever they're doing) just isn't working that well for anyone, and somewhere around 35-43% of failed payments across the board are never recovered.
+Recovery rates were really close across all three tiers: Growth 58.67%, Pro 64.97%, Starter 56.59%. Since they're all in a similar range, I don't think this is a "one tier has a problem" situation , it looks more like the whole payment recovery process (dunning emails, retry logic, whatever they're doing) just isn't working that well for anyone, and somewhere around 35-43% of failed payments across the board are never recovered.
 
-*What I'd recommend:* Look at fixing the recovery process for the whole company at once rather than tier by tier. Even a 10% improvement here would add up — I estimated around $4K/month in recovered revenue — and every customer who falls through this crack is real lost revenue every single month.
+*What I'd recommend:* Look at fixing the recovery process for the whole company at once rather than tier by tier. Even a 10% improvement here would add up, I estimated around $4K/month in recovered revenue and every customer who falls through this crack is real lost revenue every single month.
 
 **Revenue leakage — Growth tier seems like the biggest problem**
 Growth tier lost the most total revenue: $11,477 across 23 churned customers (about $499 each). Pro tier lost less overall ($9,990) even though each Pro customer is worth almost 2x as much. So Growth is kind of the worst combo — a lot of customers leaving, and each one is worth a decent amount of money.
@@ -49,7 +49,7 @@ Growth tier lost the most total revenue: $11,477 across 23 churned customers (ab
 **At-risk customers — trying to be proactive instead of reactive**
 I flagged customers as "at-risk" if they had: average logins below 5, average features used below 3, or any open support tickets.
 
-That flagged 231 customers total. Of those, 21 hit a more serious threshold — 10+ open tickets AND feature usage under 5.0, which to me signals someone who's both frustrated and checked out. Growth tier had the most at-risk customers (85). 14 customers were really disengaged (feature usage under 4.0), including 3 Pro accounts, which matter more because Pro customers pay the most.
+That flagged 231 customers total. Of those, 21 hit a more serious threshold , 10+ open tickets AND feature usage under 5.0, which to me signals someone who's both frustrated and checked out. Growth tier had the most at-risk customers (85). 14 customers were really disengaged (feature usage under 4.0), including 3 Pro accounts, which matter more because Pro customers pay the most.
 
 *What I'd recommend:* Reach out to those 3 at-risk Pro accounts first. They're each worth $999/month, so saving even one of them basically pays for the whole retention effort.
 
